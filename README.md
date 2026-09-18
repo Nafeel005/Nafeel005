@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nafeel
 
-### First-Year Information Technology Undergraduate
+### First-Year Information Technology & Management Undergraduate
 
 I'm a first-year undergraduate at the **Faculty of Information Technology,
 University of Moratuwa**, currently building a strong foundation in
