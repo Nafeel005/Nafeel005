@@ -76,3 +76,7 @@ branching, pull requests, code reviews, and collaborative development.
 ![Nafeel's GitHub Stats](./profile/stats.svg)
 
 ![Top Languages](./profile/top-langs.svg)
+
+### 🔥 GitHub Streak
+
+![Nafeel's GitHub Streak](./profile/streak.svg)
