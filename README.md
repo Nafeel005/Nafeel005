@@ -20,6 +20,21 @@ and maintained.
 - Data analysis and visualization
 - Writing clean, organized, and maintainable code
 
+## 🛠️ Skills & Technologies
+
+### Languages
+- Python
+- JavaScript
+- SQL
+
+### Web Technologies
+- HTML
+- CSS
+
+### Tools & Version Control
+- Git
+- GitHub
+
 ## 🚀 My Goals
 
 My goal is to continuously strengthen my technical skills, build meaningful
