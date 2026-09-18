@@ -22,7 +22,7 @@ and maintained.
 
 ## 🛠️ Skills & Technologies
 
-### Languages
+### Languages & Query
 - Python
 - JavaScript
 - SQL
@@ -34,6 +34,14 @@ and maintained.
 ### Tools & Version Control
 - Git
 - GitHub
+
+## 🎓 Education
+
+**University of Moratuwa**  
+Faculty of Information Technology  
+**BSc (Hons) in Information Technology and Management**  
+📍 Moratuwa, Sri Lanka  
+📚 First-Year Undergraduate
 
 ## 🚀 My Goals
 
