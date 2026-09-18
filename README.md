@@ -73,6 +73,6 @@ branching, pull requests, code reviews, and collaborative development.
 
 ## 📊 GitHub Stats
 
-![Nafeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nafeel005&show_icons=true&theme=dark)
+![Nafeel's GitHub Stats](./profile/stats.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nafeel005&layout=compact&theme=dark)
+![Top Languages](./profile/top-langs.svg)
