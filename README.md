@@ -6,9 +6,10 @@ I'm a first-year undergraduate at the **Faculty of Information Technology,
 University of Moratuwa**, currently building a strong foundation in
 programming and software development.
 
-I'm at the beginning of my journey in technology and enjoy learning by
-building projects, solving problems, and exploring how real-world software
-development works.
+I'm developing my skills through hands-on projects, problem solving, and
+exploring real-world software development practices. I'm particularly
+interested in understanding how software is designed, developed, tested,
+and maintained.
 
 ## 🌱 Currently Learning
 
