@@ -43,6 +43,17 @@ Faculty of Information Technology
 📍 Moratuwa, Sri Lanka  
 📚 First-Year Undergraduate
 
+## 🌱 Learning & Practice
+
+### Personal Portfolio
+A personal portfolio website built while learning HTML, CSS, and JavaScript.
+
+### Git & GitHub Collaborative Assignment
+A university learning activity focused on Git, GitHub, branching, pull requests, code reviews, and merge conflicts.
+
+### SpeedQuiz
+A forked repository used to explore and learn from a real-time web application.
+
 ## 🚀 My Goals
 
 My goal is to continuously strengthen my technical skills, build meaningful
