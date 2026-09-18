@@ -70,3 +70,9 @@ comfortable with professional development practices such as version control,
 branching, pull requests, code reviews, and collaborative development.
 
 > 💡 Learning today, building tomorrow.
+
+## 📊 GitHub Stats
+
+![Nafeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nafeel005&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nafeel005&layout=compact&theme=dark)
